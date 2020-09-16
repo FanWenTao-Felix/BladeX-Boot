@@ -1,0 +1,23 @@
+#数据源配置
+spring:
+  datasource:
+    #     mysql
+#    url: jdbc:postgresql://localhost:5432/jungong?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://localhost:3306/jungong?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true&serverTimezone=GMT%2B8&nullCatalogMeansCurrent=true&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+  redis:
+    host: 49.232.13.110
+    port: 6379
+    password: kcbg12345^&*()
+    database: 14
+    ssl: false
+
+##blade配置
+#blade:
+#  #本地文件上传
+#  file:
+#    remote-mode: true
+#    upload-domain: http://localhost:8999
+#    remote-path: /usr/share/nginx/html
+

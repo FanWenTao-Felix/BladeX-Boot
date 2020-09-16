@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf0de33e-dd89-4062-a08c-b667d55f5be9" name="Default Changelist" comment="首次提交">
+      <change afterPath="$PROJECT_DIR$/../.idea/blade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archer/Archer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArcherUI/.idea/ArcherUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BladeX-Boot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Tool/.idea/BladeX-Tool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/BladeX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-auth/blade-auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-common/blade-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-gateway/blade-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-flow-api/blade-flow-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-ops-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-resource-api/blade-resource-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-admin/blade-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-develop/blade-develop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-flow-design/blade-flow-design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-flow/blade-flow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-log/blade-log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-ops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-resource/blade-resource.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-turbine/blade-turbine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-xxljob-admin/blade-xxljob-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-xxljob/blade-xxljob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-zipkin/blade-zipkin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-desk-api/blade-desk-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-dict-api/blade-dict-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-scope-api/blade-scope-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-service-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-system-api/blade-system-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-user-api/blade-user-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-desk/blade-desk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-system/blade-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-user/blade-user.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saber/.idea/Saber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saber/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcherUI/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcherUI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BladeX/doc/nacos/blade-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../BladeX/doc/nacos/blade-dev.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Saber/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Saber/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="E:/apache-maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f5NZuhfM66hCeLcde81Db6D3JM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.springblade.Application" />
+      <module name="BladeX-Boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.springblade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BladeX-Boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.springblade.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf0de33e-dd89-4062-a08c-b667d55f5be9" name="Default Changelist" comment="" />
+      <created>1595504052872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595504052872</updated>
+      <workItem from="1600178889034" duration="2602000" />
+      <workItem from="1600238639170" duration="1380000" />
+      <workItem from="1600247113473" duration="5594000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1600255265296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600255265296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="571" y="104" key="CommitChangelistDialog2" timestamp="1600255259165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="571" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600255259165" />
+    <state x="764" y="324" key="FileChooserDialogImpl" timestamp="1600257332943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="257" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595506478195" />
+    <state x="764" y="324" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600257332943" />
+    <state width="938" height="298" key="GridCell.Tab.0.bottom" timestamp="1600256852212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852212" />
+    <state width="938" height="298" key="GridCell.Tab.0.center" timestamp="1600256852212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852212" />
+    <state width="938" height="298" key="GridCell.Tab.0.left" timestamp="1600256852212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852212" />
+    <state width="938" height="298" key="GridCell.Tab.0.right" timestamp="1600256852212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852212" />
+    <state width="938" height="298" key="GridCell.Tab.1.bottom" timestamp="1600256852213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852213" />
+    <state width="938" height="298" key="GridCell.Tab.1.center" timestamp="1600256852213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852213" />
+    <state width="938" height="298" key="GridCell.Tab.1.left" timestamp="1600256852213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852213" />
+    <state width="938" height="298" key="GridCell.Tab.1.right" timestamp="1600256852213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595509520662" />
+    <state width="938" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600256852213" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1600179012359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600179012359" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600255396062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600255396062" />
+    <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1595506373223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1595506373223" />
+    <state x="334" y="227" key="new project wizard" timestamp="1600239559484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="227" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600239559484" />
+  </component>
+</project>
